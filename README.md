@@ -21,7 +21,7 @@ TuNovelaLigera-Scrapper
 
 10 - Cuando termine de ejecutarse el se va a detener, revisas la carpeta que se llama "txts" y ahí tendrás los caps descargados.
 
-OJO: Esto esta en fase de prueba, es la versión 0.00.00.01.
+OJO: Esto esta en fase de prueba, es la versión 0.00.00.10.
 
 Errores que se detecten los ponen en un txt y me los hacen llegar. Debido a la configuración rara que tienen en tunovelaligera deben de revisar el 1er párrafo de cada capítulo comparándolo con el que hay en la página y si falta agregarlo (estoy viendo como arreglar eso). Los caps viejos (o sea los 1ros) puede que se lleven 0 bytes pero eso no es mi culpa es de la estructura, ya los buscarán en otro lado 🤣😂
 
